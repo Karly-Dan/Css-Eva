@@ -1,4 +1,6 @@
 # Css-Eva
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -270,10 +272,6 @@
             <div class="scaner"></div>
         </div>
         <div class="shadow"></div>
-    </div>
-    <div class="planta">
-        <div>hhh</div>
-        
     </div>
 </body>
 </html>
